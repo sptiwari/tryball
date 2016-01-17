@@ -1,3 +1,0 @@
-# tryball
-fdkd 
-testing
